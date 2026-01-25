@@ -1,3 +1,13 @@
+# macOS
+.DS_Store
+
+# local temp outputs
+tmp*.csv
+
+# local databases / tools
+anaconda_projects/
+*.db
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
