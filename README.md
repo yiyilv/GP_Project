@@ -52,6 +52,14 @@ Install the package in editable mode:
 pip install -e .
 ```
 
+also users can install it from github link
+
+```bash
+git clone https://github.com/yiyilv/GP_Project.git
+cd GP_Project
+pip install -e .
+```
+
 Verify installation:
 ```bash
 atl08kit version
